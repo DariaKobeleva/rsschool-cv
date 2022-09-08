@@ -51,14 +51,3 @@ const makeItFunny = (str, num) => {
 Russian - Native
 
 English - A2
-
-
-
-
-
-
-
-
-
-
-
